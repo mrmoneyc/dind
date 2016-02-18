@@ -8,7 +8,8 @@ Requirement
 Usage
 -------------
 ```
-$ docker run -it --rm -v /var/run/docker.sock:/var/run/docker.sock mrmoneyc/dind docker version"
+$ docker run -it --rm -v /var/run/docker.sock:/var/run/docker.sock mrmoneyc/dind docker version
+$ docker run -it --rm -v /var/run/docker.sock:/var/run/docker.sock mrmoneyc/dind docker-compose version
 ```
 
 Reference
