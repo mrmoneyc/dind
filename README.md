@@ -1,4 +1,4 @@
-Docker-in Docker
+Docker-in-Docker
 =============
 
 Requirement
